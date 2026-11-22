@@ -1,0 +1,47 @@
+[
+  {
+    "season": "S1",
+    "plant": "F1",
+    "method": "抽签",
+    "p": "0.5",
+    "visit": "完成",
+    "result": "可供",
+    "process": "A"
+  },
+  {
+    "season": "S1",
+    "plant": "F2",
+    "method": "抽签",
+    "p": "0.5",
+    "visit": "完成",
+    "result": "可供",
+    "process": "B"
+  },
+  {
+    "season": "S1",
+    "plant": "F3",
+    "method": "抽签",
+    "p": "0.3",
+    "visit": "拒绝",
+    "result": "?",
+    "process": "A"
+  },
+  {
+    "season": "S1",
+    "plant": "F4",
+    "method": "推荐",
+    "p": "?",
+    "visit": "未核",
+    "result": "?",
+    "process": "B"
+  },
+  {
+    "season": "S1",
+    "plant": "F5",
+    "method": "抽签",
+    "p": "0.3",
+    "visit": "完成",
+    "result": "可供",
+    "process": "C"
+  }
+]

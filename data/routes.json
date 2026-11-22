@@ -1,0 +1,26 @@
+[
+  {
+    "route": "R1",
+    "advisor": "A1",
+    "plants": "F3+F4",
+    "size": "2",
+    "permission": "受限",
+    "confirmed": "false"
+  },
+  {
+    "route": "R2",
+    "advisor": "A2",
+    "plants": "F5+F6",
+    "size": "2",
+    "permission": "公开",
+    "confirmed": "false"
+  },
+  {
+    "route": "R3",
+    "advisor": "A1",
+    "plants": "F3",
+    "size": "1",
+    "permission": "受限",
+    "confirmed": "true"
+  }
+]

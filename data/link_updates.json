@@ -1,0 +1,16 @@
+[
+  {
+    "season": "S2",
+    "left": "F4",
+    "right": "F2",
+    "state": "确认同线",
+    "reason": "地址核实"
+  },
+  {
+    "season": "S2",
+    "left": "F3",
+    "right": "F1",
+    "state": "待核",
+    "reason": "接单品牌相同"
+  }
+]

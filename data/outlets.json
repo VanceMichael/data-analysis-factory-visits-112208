@@ -1,0 +1,14 @@
+[
+  {
+    "buyer": "P1",
+    "need": "A+B",
+    "distinct": "2",
+    "permission": "公开"
+  },
+  {
+    "buyer": "P2",
+    "need": "B+C",
+    "distinct": "2",
+    "permission": "受限"
+  }
+]

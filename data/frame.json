@@ -1,0 +1,50 @@
+[
+  {
+    "plant": "F1",
+    "group": "G1",
+    "area": "近",
+    "process": "A",
+    "equipment": "E1",
+    "for_partner": "公开"
+  },
+  {
+    "plant": "F2",
+    "group": "G2",
+    "area": "近",
+    "process": "B",
+    "equipment": "E2",
+    "for_partner": "公开"
+  },
+  {
+    "plant": "F3",
+    "group": "G3",
+    "area": "远",
+    "process": "A",
+    "equipment": "E3",
+    "for_partner": "受限"
+  },
+  {
+    "plant": "F4",
+    "group": "G3",
+    "area": "远",
+    "process": "B",
+    "equipment": "E4",
+    "for_partner": "受限"
+  },
+  {
+    "plant": "F5",
+    "group": "G4",
+    "area": "远",
+    "process": "C",
+    "equipment": "E5",
+    "for_partner": "公开"
+  },
+  {
+    "plant": "F6",
+    "group": "G5",
+    "area": "近",
+    "process": "C",
+    "equipment": "E6",
+    "for_partner": "公开"
+  }
+]
