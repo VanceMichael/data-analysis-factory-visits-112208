@@ -11,6 +11,8 @@
 - `link_updates.json` 记录字段为 `season`、`left`、`right`、`state`、`reason`。
 - `routes.json` 记录字段为 `route`、`advisor`、`plants`、`size`、`permission`、`confirmed`。
 - `outlets.json` 记录字段为 `buyer`、`need`、`distinct`、`permission`。
+- `capacity.json` 记录字段为 `facility`、`process`、`window`、`hours`、`used`、`source`、`permission`。
+- `commitments.json` 记录字段为 `order`、`buyer`、`processes`、`hours`、`window`、`requirement`、`status`。
 
 ## 运行
 

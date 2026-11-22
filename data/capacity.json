@@ -1,0 +1,47 @@
+[
+  {
+    "facility": "F1",
+    "process": "A",
+    "window": "W1",
+    "hours": "5",
+    "used": "3",
+    "source": "签认",
+    "permission": "公开"
+  },
+  {
+    "facility": "F2",
+    "process": "B",
+    "window": "W1",
+    "hours": "4",
+    "used": "0",
+    "source": "签认",
+    "permission": "公开"
+  },
+  {
+    "facility": "F4",
+    "process": "B",
+    "window": "W1",
+    "hours": "4",
+    "used": "2",
+    "source": "补核",
+    "permission": "受限"
+  },
+  {
+    "facility": "F5",
+    "process": "C",
+    "window": "W1",
+    "hours": "7",
+    "used": "2",
+    "source": "签认",
+    "permission": "公开"
+  },
+  {
+    "facility": "F6",
+    "process": "C",
+    "window": "W2",
+    "hours": "7",
+    "used": "0",
+    "source": "签认",
+    "permission": "公开"
+  }
+]

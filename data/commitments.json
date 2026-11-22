@@ -1,0 +1,29 @@
+[
+  {
+    "order": "O1",
+    "buyer": "P1",
+    "processes": "A+B",
+    "hours": "2",
+    "window": "W1",
+    "requirement": "并行",
+    "status": "已确认"
+  },
+  {
+    "order": "O2",
+    "buyer": "P2",
+    "processes": "B+C",
+    "hours": "3",
+    "window": "W1",
+    "requirement": "顺序",
+    "status": "待确认"
+  },
+  {
+    "order": "O3",
+    "buyer": "P1",
+    "processes": "B+C",
+    "hours": "2",
+    "window": "W2",
+    "requirement": "并行",
+    "status": "候选"
+  }
+]
